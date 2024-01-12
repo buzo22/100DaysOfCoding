@@ -92,4 +92,3 @@ while not end_of_game:
         print("You win.")
 
     print(stages[lives])
-b
